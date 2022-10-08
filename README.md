@@ -88,7 +88,7 @@ My current config file for the same can be found [here](./.config/touchegg/touch
 
 ---
 
-Sublime Text packages I use:
+Sublime Text packages I use - 
 
 1. A File Icon
 2. Meetio Theme (usually not in Linux)
